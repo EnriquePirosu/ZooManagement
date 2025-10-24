@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PirosuZoo
 {
-    class Giraffa
+    class Elefante
     {
     }
 }
